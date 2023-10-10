@@ -5,8 +5,6 @@ VisualStudioVersion = 15.0.33801.198
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "constPointer", "CPP_Training\CPP_Training.vcxproj", "{E77247AB-9632-4590-B6C2-C5CAFCE6E74E}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "constPointer2", "constPointer2\constPointer2.vcxproj", "{2D17C931-4F08-4336-8376-27BA78241374}"
-EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "type Description", "type Description\type Description.vcxproj", "{8EE356AF-E17B-4DE2-B367-778B698F4DEE}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Str_Vec_Itm", "Str_Vec_Arr\Str_Vec_Arr.vcxproj", "{F398348F-4B89-499E-B828-F7CBA7BEA545}"
@@ -33,14 +31,6 @@ Global
 		{E77247AB-9632-4590-B6C2-C5CAFCE6E74E}.Release|x64.Build.0 = Release|x64
 		{E77247AB-9632-4590-B6C2-C5CAFCE6E74E}.Release|x86.ActiveCfg = Release|Win32
 		{E77247AB-9632-4590-B6C2-C5CAFCE6E74E}.Release|x86.Build.0 = Release|Win32
-		{2D17C931-4F08-4336-8376-27BA78241374}.Debug|x64.ActiveCfg = Debug|x64
-		{2D17C931-4F08-4336-8376-27BA78241374}.Debug|x64.Build.0 = Debug|x64
-		{2D17C931-4F08-4336-8376-27BA78241374}.Debug|x86.ActiveCfg = Debug|Win32
-		{2D17C931-4F08-4336-8376-27BA78241374}.Debug|x86.Build.0 = Debug|Win32
-		{2D17C931-4F08-4336-8376-27BA78241374}.Release|x64.ActiveCfg = Release|x64
-		{2D17C931-4F08-4336-8376-27BA78241374}.Release|x64.Build.0 = Release|x64
-		{2D17C931-4F08-4336-8376-27BA78241374}.Release|x86.ActiveCfg = Release|Win32
-		{2D17C931-4F08-4336-8376-27BA78241374}.Release|x86.Build.0 = Release|Win32
 		{8EE356AF-E17B-4DE2-B367-778B698F4DEE}.Debug|x64.ActiveCfg = Debug|x64
 		{8EE356AF-E17B-4DE2-B367-778B698F4DEE}.Debug|x64.Build.0 = Debug|x64
 		{8EE356AF-E17B-4DE2-B367-778B698F4DEE}.Debug|x86.ActiveCfg = Debug|Win32
