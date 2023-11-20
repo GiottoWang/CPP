@@ -42,12 +42,27 @@
     <ClCompile Include="2.5(u)_对象_运算符重构.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="3.1_继承_三种访问方式.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="3.2_多态_抽象基类.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="3.4_多态_动态内存分配.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="3.4(u)_多态_动态内存分配.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="1.1_ADT_Stack.h">
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="2.5_对象_运算符重构.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="3.4_多态_动态内存分配.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>

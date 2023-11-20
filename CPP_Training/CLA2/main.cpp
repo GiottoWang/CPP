@@ -7,5 +7,13 @@ int main() {
 	cout << Q1.enQueue(1) << endl;
 	cout << Q1.enQueue(2) << endl;
 	cout << Q1.deQueue() << endl;
-	return 0;
+
+	int a[] = { 12,12,12 };
+	int *b = new int[std::size(a)];
+	b[0] = 1;
+	b[1] = 2;
+	b[2] = 3;
+	cout << std::size(a) << endl;
+	cout << sizeof(a)/sizeof(int) << endl;
+	cout << sizeof(b[0]) << endl;
 }
